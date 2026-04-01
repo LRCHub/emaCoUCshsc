@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "My Clematis (ALNST 1st Anniversary Remix)",
+  "base_artist": "PARK BYEONG HOON、AKUGETSU",
+  "createdAt": "2026-04-01T03:45:10.052762Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "My Clematis (ALNST 1st Anniversary Remix)",
+      "artist": "PARK BYEONG HOON/AKUGETSU",
+      "has_synced": false,
+      "path": "select/01_My_Clematis_(ALNST_1st_Anniversary_Remix)_PARK_BYEONG_HOON_AKUGETSU.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "My Clematis (ALNST 1st Anniversary Remix)",
+      "artist": "PARK BYEONG HOON & AKUGETSU",
+      "has_synced": false,
+      "path": "select/02_My_Clematis_(ALNST_1st_Anniversary_Remix)_PARK_BYEONG_HOON_&_AKUGETSU.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "My Clematis (ALNST 1st Anniversary Remix)",
+      "artist": "PARK BYEONG HOON",
+      "has_synced": false,
+      "path": "select/03_My_Clematis_(ALNST_1st_Anniversary_Remix)_PARK_BYEONG_HOON.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "My Clematis (ALNST 1st Anniversary Remix)",
+      "artist": "Rubyeye, BL8M, AKUGETSU & PARK BYEONG HOON",
+      "has_synced": false,
+      "path": "select/04_My_Clematis_(ALNST_1st_Anniversary_Remix)_Rubyeye,_BL8M,_AKUGETSU_&_PARK_BYEONG_HOON.txt"
+    }
+  ]
+}
